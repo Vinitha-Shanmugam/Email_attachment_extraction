@@ -1,0 +1,592 @@
+{
+  "response_code": 200,
+  "message": "Resume search is fetched successfully.",
+  "statusFlag": true,
+  "status": "SUCCESS",
+  "errorDetails": null,
+  "data": {
+    "meta": {
+      "page": 1,
+      "pageSize": 20,
+      "totalCount": 1
+    },
+    "filters": [
+      {
+        "key": "company",
+        "value": "good"
+      },
+      {
+        "key": "companyCurrent",
+        "value": "false"
+      },
+      {
+        "key": "companyKeyword",
+        "value": "good"
+      },
+      {
+        "key": "educationDegree",
+        "value": ""
+      },
+      {
+        "key": "excludeThirdParty",
+        "value": "false"
+      },
+      {
+        "key": "hasEmail",
+        "value": "true"
+      },
+      {
+        "key": "hasPhoneNumber",
+        "value": "true"
+      },
+      {
+        "key": "jobTitle",
+        "value": "QRP"
+      },
+      {
+        "key": "jobTitleKeyword",
+        "value": "Technical Architect"
+      },
+      {
+        "key": "lastActive",
+        "value": "120"
+      },
+      {
+        "key": "likelyToMove",
+        "value": "{\"max\":0}"
+      },
+      {
+        "key": "likelyToSwitch",
+        "value": "false"
+      },
+      {
+        "key": "locations",
+        "value": "[{\"value\":\"Toronto,Canada\"}]"
+      },
+      {
+        "key": "searchType",
+        "value": "Integrated"
+      },
+      {
+        "key": "skillYearsOfExperience",
+        "value": "[\"python|18\",\"data analysis|3\"]"
+      },
+      {
+        "key": "skills",
+        "value": "python,software,data analysis,opentext"
+      },
+      {
+        "key": "skillsKeyword",
+        "value": "python AND data analysis"
+      },
+      {
+        "key": "willingToRelocate",
+        "value": "false"
+      },
+      {
+        "key": "yearsExperience",
+        "value": "{\"min\": 1, \"max\":30 }"
+      }
+    ],
+    "data": [
+      {
+        "bio": "As an accomplished Lead Engineer with over 11 years of experience in challenging environments, I specialize in developing innovative systems for diverse industries such as Telecom, Shipping, Banking, Insurance, and Automotive. My approach is focused on results and creativity, and I excel in overseeing development processes. With exceptional organizational skills and a customer-centric mindset, I have a proven track record of success in project management, team leadership (as a Scrum Master), and Development.",
+        "city": "Toronto",
+        "country": "Canada",
+        "currentJobTitle": "QRP",
+        "currentCompany": "Good",
+        "education": [
+          {
+            "degree": "Bachelors",
+            "org": "Anna University"
+          }
+        ],
+        "experience": {
+          "current": {
+            "org": "Good",
+            "periodEnd": {
+              "day": 1,
+              "month": 1,
+              "year": 2015
+            },
+            "periodStart": {
+              "day": 1,
+              "month": 1,
+              "year": 2008
+            },
+            "title": "QRP"
+          },
+          "history": [
+            {
+              "org": "Good",
+              "periodEnd": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+              },
+              "periodStart": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+              },
+              "title": "QRP"
+            },
+            {
+              "periodEnd": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+              },
+              "periodStart": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+              },
+              "title": "Associate Team Lead/ Agile Scrum Master"
+            },
+            {
+              "org": "Very Good",
+              "periodEnd": {
+                "day": 1,
+                "month": 1,
+                "year": 2016
+              },
+              "periodStart": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+              },
+              "title": "Python"
+            },
+            {
+              "title": "Sr Software Engineer"
+            },
+            {
+              "title": "Software Developer"
+            },
+            {
+              "org": "SBN Technologics Pvt Ltd",
+              "title": "Software Engineer"
+            }
+          ]
+        },
+        "firstName": "Suhail",
+        "fullName": "Suhail Kassim",
+        "dateLastActive": "2023-07-10T19:01:04Z",
+        "dateResumeLastUpdated": "2023-01-03T22:37:30.456Z",
+        "desiredJobTitles": [
+          "Technical Architect"
+        ],
+        "hasEmail": true,
+        "hasPhone": true,
+        "id": "c77a231bb61cbf693c4b3db49da797d520796f8a",
+        "candidateId": "c65f0ff3-80bc-412f-803a-3c7e90273df3",
+        "legacyIds": [
+          "c77a231bb61cbf693c4b3db49da797d520796f8a",
+          "a1797451f8e033c07de3d42d4f210dd06424eef8",
+          "e8898081e67d0d8cfc4a01bc6e1beada69831713",
+          "4b353a9e96efaf5e65b4726bb67e3b18ea501951",
+          "195c451a56e2583884043ad351c30f3920a32d48",
+          "58ffb828369a18c32eabe5aed7e1524346618855",
+          "8cfc3f87ce727ce852462b011191d76f35999506",
+          "81fb7426226f937ccb9a9530d3dd46f5fadee5b2",
+          "d04277a41f224f071984fe34eca710f09843f19e",
+          "19148ef9fdfefb4c9bf5d506f2cf94a3"
+        ],
+        "isThirdParty": false,
+        "lastName": "Kassim",
+        "likelyToMove": false,
+        "likelyToMoveScore": 0,
+        "locations": [
+          {
+            "city": "Toronto",
+            "country": "Canada",
+            "countryCode": "CA",
+            "latitude": 43.8127403259277,
+            "longitude": -79.2005233764648,
+            "postalCode": "M1B 5A3",
+            "region": "Ontario",
+            "source": "dice",
+            "text": "Toronto, Ontario, Canada"
+          }
+        ],
+        "region": "Ontario",
+        "skills": [
+          {
+            "lastUsed": 2023,
+            "skill": "python",
+            "yearsUsed": 18
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "good clinical practice",
+            "yearsUsed": 4
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "data analysis",
+            "yearsUsed": 3
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "amazon web services",
+            "yearsUsed": 2
+          },
+          {
+            "lastUsed": 2023,
+            "skill": ".net framework"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "asp.net"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "c"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "c#"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "c++"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "centura team developer"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "html"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "java"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "javascript"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "software development"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "sql"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "sql base"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "td6"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "windows"
+          },
+          {
+            "lastUsed": 2023,
+            "skill": "xml"
+          },
+          {
+            "lastUsed": 2016,
+            "skill": "software",
+            "yearsUsed": 10
+          },
+          {
+            "lastUsed": 2016,
+            "skill": "agile",
+            "yearsUsed": 9
+          },
+          {
+            "lastUsed": 2016,
+            "skill": "microsoft sql server",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2016,
+            "skill": "opentext",
+            "yearsUsed": 6
+          },
+          {
+            "lastUsed": 2016,
+            "skill": "oracle",
+            "yearsUsed": 6
+          },
+          {
+            "lastUsed": 2016,
+            "skill": "team building",
+            "yearsUsed": 6
+          },
+          {
+            "lastUsed": 2016,
+            "skill": "integration",
+            "yearsUsed": 5
+          },
+          {
+            "lastUsed": 2016,
+            "skill": "leadership",
+            "yearsUsed": 2
+          },
+          {
+            "lastUsed": 2016,
+            "skill": "microsoft windows azure",
+            "yearsUsed": 2
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "angularjs",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "automation",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "banking",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "commerce",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "computer science",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "data management",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "data processing",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "finance",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "linux",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "plsql",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "scripting",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "scrum master",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "shell",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "solaris",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "spring",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "team leadership",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "telecommunications",
+            "yearsUsed": 7
+          },
+          {
+            "lastUsed": 2015,
+            "skill": ".net",
+            "yearsUsed": 4
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "database",
+            "yearsUsed": 4
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "microsoft windows",
+            "yearsUsed": 4
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "migration",
+            "yearsUsed": 4
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "software engineering",
+            "yearsUsed": 4
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "system requirements",
+            "yearsUsed": 4
+          },
+          {
+            "lastUsed": 2015,
+            "skill": "technical writing",
+            "yearsUsed": 4
+          }
+        ],
+        "socialProfiles": [
+          {
+            "icon_64": "https://dmf1ol3sc7oaa.cloudfront.net/64/facebook.png",
+            "source": "facebook"
+          },
+          {
+            "icon_64": "https://dmf1ol3sc7oaa.cloudfront.net/64/twitter.png",
+            "source": "twitter"
+          },
+          {
+            "icon_64": "https://dmf1ol3sc7oaa.cloudfront.net/64/linkedin.png",
+            "source": "linkedin"
+          },
+          {
+            "icon_64": "https://dmf1ol3sc7oaa.cloudfront.net/64/linkedin.png",
+            "source": "linkedin"
+          },
+          {
+            "icon_64": "https://dmf1ol3sc7oaa.cloudfront.net/64/facebook.png",
+            "source": "facebook"
+          },
+          {
+            "icon_64": "https://dmf1ol3sc7oaa.cloudfront.net/64/dice.png",
+            "source": "Dice"
+          }
+        ],
+        "workPermitDocuments": [
+          "TN Permit Holder"
+        ],
+        "workPermitLocations": [
+          "US"
+        ],
+        "workPreferences": [
+          {
+            "employmentType": [
+              "Full-time",
+              "Part-time"
+            ],
+            "hourlyRate": {
+              "currency": "USD",
+              "max": 0,
+              "min": 75
+            },
+            "willingToRelocate": false,
+            "travelPreference": 0
+          }
+        ],
+        "certifications": [
+          "IBM Blockchain Essentials V2",
+          "Learning BigQuery",
+          "M001: MongoDB Basics",
+          "Database Fundamentals",
+          "M100: MongoDB for SQL Pros",
+          "Industrial IoT on Google Cloud Platform",
+          "Certified ScrumMaster  (CSM )",
+          "Jenkins - Fundamentals",
+          "Data Analysis Using Python",
+          "Data Analysis with Python",
+          "Hadoop Foundations - Level 1",
+          "Python for Data Science and AI",
+          "Jenkins Administration - Fundamentals",
+          "API Designer",
+          "DataOps Methodology",
+          "Jenkins Pipeline - Fundamentals",
+          "Data Engineering, Big Data, and Machine Learning on GCP Specialization",
+          "JIRA fundamentals and JIRA Administrators",
+          "Data Engineering with Google Cloud Specialization",
+          "Python for Data Science",
+          "Big Data Foundations - Level 1",
+          "Team Developer 6.2",
+          "Team Developer 6.1",
+          "Dataops Methodology",
+          "Api Designer",
+          "Certified Scrummaster  (Csm )",
+          "Data Analysis Using Python",
+          "M001: Mongodb Basics",
+          "M100: Mongodb For Sql Pros",
+          "Learning Bigquery",
+          "Data Engineering With Google Cloud Specialization",
+          "Data Engineering, Big Data, And Machine Learning On Gcp Specialization",
+          "Industrial Iot On Google Cloud Platform",
+          "Jenkins - Fundamentals",
+          "Jenkins Administration - Fundamentals",
+          "Jenkins Pipeline - Fundamentals",
+          "Big Data Foundations - Level 1",
+          "Data Analysis With Python",
+          "Hadoop Foundations - Level 1",
+          "Ibm Blockchain Essentials V2",
+          "Python For Data Science",
+          "Python For Data Science And Ai",
+          "Team Developer 6.1",
+          "Team Developer 6.2",
+          "Database Fundamentals",
+          "Jira Fundamentals And Jira Administrators",
+          "Api Designer - License Number: 76551787",
+          "Certified Scrummaster  (Csm ) - License Number:",
+          "Data Analysis Using Python - License Number:",
+          "M001: Mongodb Basics - License Number:",
+          "M100: Mongodb For Sql Pros - License Number:",
+          "Data Engineering With Google Cloud Specialization - License Number: Xu5cxts2alxt",
+          "Data Engineering, Big Data, And Machine Learning On Gcp Specialization - License Number: Txbtjrt9a7de",
+          "Industrial Iot On Google Cloud Platform - License Number: Knnk5ltfwq8l",
+          "Jenkins - Fundamentals - License Number: Y4aw2vh2wrh8",
+          "Jenkins Administration - Fundamentals - License Number: Igcnmdktpmfe",
+          "Jenkins Pipeline - Fundamentals - License Number: I9honbkbf638",
+          "Big Data Foundations - Level 1 - License Number:",
+          "Data Analysis With Python - License Number:",
+          "Hadoop Foundations - Level 1 - License Number:",
+          "Ibm Blockchain Essentials V2 - License Number:",
+          "Python For Data Science - License Number:",
+          "Python For Data Science And Ai - License Number: G72uaze6x3j9",
+          "Team Developer 6.1 - License Number:",
+          "Team Developer 6.2 - License Number:",
+          "Database Fundamentals - License Number:",
+          "Jira Fundamentals And Jira Administrators - License Number:",
+          "Programming Foundations: Real-World Examples",
+          "Amrut Software"
+        ],
+        "yearsOfExperience": 16,
+        "securityAllowance": {
+          "status": true
+        }
+      }
+    ],
+    "usage": {
+      "customerId": 2045840,
+      "quota": 6400,
+      "viewsConsumed": 2874,
+      "viewsRemaining": 3526
+    }
+  }
+}
